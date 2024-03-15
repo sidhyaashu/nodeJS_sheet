@@ -2,7 +2,6 @@
 // You can use these modules without installing anything additional. 
 // Here's an example using the fs (file system) module to read a file:1
 
-
 const fs = require('fs');
 
 fs.readFile('example.txt', 'utf8', (err, data) => {
